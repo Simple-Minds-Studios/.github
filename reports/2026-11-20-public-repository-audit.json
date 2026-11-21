@@ -1,0 +1,1261 @@
+[
+  {
+    "repository": "simplemindsstudios.github.io",
+    "description": "The canonical studio website, public collection, and publishing history.",
+    "homepage": "https://simplemindsstudios.com/",
+    "pages": {
+      "html_url": "https://simplemindsstudios.com/",
+      "cname": "simplemindsstudios.com",
+      "status": null,
+      "https_enforced": true,
+      "build_type": "workflow"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simplemindsstudios.com/images/favicon.svg",
+        "status": 200,
+        "bytes": 1535,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simplemindsstudios.com/images/social-preview.PNG",
+        "status": 200,
+        "bytes": 2344205,
+        "type": "image/png"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "eb3afe9e8d56cd9632124dd76fca8b962fb7f565",
+    "notes": "Canonical studio domain retained; personal history merged; stale legacy CNAME removed from active source."
+  },
+  {
+    "repository": "RomanMAST",
+    "description": "LensBridge: checkable historical microlensing collections, cross-survey event identities, preserved source files and an interactive published-data viewer.",
+    "homepage": "https://simple-minds-studios.github.io/RomanMAST/",
+    "pages": {
+      "html_url": "https://simple-minds-studios.github.io/RomanMAST/",
+      "cname": null,
+      "status": "built",
+      "https_enforced": true,
+      "build_type": "legacy"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simple-minds-studios.github.io/RomanMAST/assets/favicon.svg",
+        "status": 200,
+        "bytes": 415,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simple-minds-studios.github.io/RomanMAST/assets/lensbridge-banner.png",
+        "status": 200,
+        "bytes": 1543655,
+        "type": "image/png"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "6c181be50392ed03788a48ab206a88f60793617a",
+    "notes": "Personal commits already retained; source release/tag recorded. Flint review applied: separate events, plain-language provenance, corrected counts and mobile viewer."
+  },
+  {
+    "repository": "thinking-clearer",
+    "description": "Published episodes about perception, belief, uncertainty, and how we think.",
+    "homepage": "https://simple-minds-studios.github.io/thinking-clearer/",
+    "pages": {
+      "html_url": "https://simple-minds-studios.github.io/thinking-clearer/",
+      "cname": null,
+      "status": "built",
+      "https_enforced": true,
+      "build_type": "legacy"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simple-minds-studios.github.io/thinking-clearer/assets/sms-favicon.svg",
+        "status": 200,
+        "bytes": 216,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simple-minds-studios.github.io/thinking-clearer/assets/sms-social-preview.png",
+        "status": 200,
+        "bytes": 23897,
+        "type": "image/png"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "e176d0cacf6b89c8884a8b6a92ab914aabd42e88",
+    "notes": "Description, public contact route, favicon and page share image completed."
+  },
+  {
+    "repository": "spineflow-tiny-showcase",
+    "description": "SpineFlow Tiny: a static-first architectural concept gallery, with five studies and the original experimental exhibit preserved.",
+    "homepage": "https://simple-minds-studios.github.io/spineflow-tiny-showcase/",
+    "pages": {
+      "html_url": "https://simple-minds-studios.github.io/spineflow-tiny-showcase/",
+      "cname": null,
+      "status": null,
+      "https_enforced": true,
+      "build_type": "workflow"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simple-minds-studios.github.io/spineflow-tiny-showcase/assets/sms-favicon.svg",
+        "status": 200,
+        "bytes": 216,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simple-minds-studios.github.io/spineflow-tiny-showcase/assets/sms-social-preview.png",
+        "status": 200,
+        "bytes": 20344,
+        "type": "image/png"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "b4ca35b7995b74895a13bfdac0d86d10bbdf05d2",
+    "notes": "Merged newer static gallery, retained original exhibit; removed unused third-party dependency declarations and legacy lockfile from active build."
+  },
+  {
+    "repository": ".github",
+    "description": "The SMS organization profile, rights guidance, and attribution information.",
+    "homepage": "https://simplemindsstudios.com/",
+    "pages": {
+      "html_url": null,
+      "cname": null,
+      "status": null,
+      "https_enforced": null,
+      "build_type": null
+    },
+    "assets": {},
+    "checks": {},
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "d7e0a5d6ec40f99fffdc9e956ea47ff72b556d4f",
+    "notes": "Organization profile/support repository; no separate Pages site intended."
+  },
+  {
+    "repository": "witness-multiple",
+    "description": "A polyphonic archive of human\u2013AI collaboration, preserving distinct interpretations, provenance, and disagreement.",
+    "homepage": "https://simple-minds-studios.github.io/witness-multiple/",
+    "pages": {
+      "html_url": "https://simple-minds-studios.github.io/witness-multiple/",
+      "cname": null,
+      "status": "built",
+      "https_enforced": true,
+      "build_type": "legacy"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simple-minds-studios.github.io/witness-multiple/assets/sms-favicon.svg",
+        "status": 200,
+        "bytes": 216,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simple-minds-studios.github.io/witness-multiple/simplemindsstudios_social.png",
+        "status": 200,
+        "bytes": 728900,
+        "type": "image/png"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "2d03ed67d6ba728ad06adbccd068f4ff12129365",
+    "notes": "Historical source branches retained; organization links and existing project share artwork repaired."
+  },
+  {
+    "repository": "sms-standards",
+    "description": "The studio\u2019s working manual, brand system, and design guidance.",
+    "homepage": "https://simple-minds-studios.github.io/sms-standards/",
+    "pages": {
+      "html_url": "https://simple-minds-studios.github.io/sms-standards/",
+      "cname": null,
+      "status": null,
+      "https_enforced": true,
+      "build_type": "workflow"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simple-minds-studios.github.io/sms-standards/assets/sms-favicon.svg",
+        "status": 200,
+        "bytes": 216,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simple-minds-studios.github.io/sms-standards/assets/sms-social-preview.png",
+        "status": 200,
+        "bytes": 20093,
+        "type": "image/png"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "c86bf7093ed818f22d9a3cc30bc20e120152b3e2",
+    "notes": "Restored intended manual website; missing chapter links are labeled planned rather than presented as existing files."
+  },
+  {
+    "repository": "project-voyager-iii",
+    "description": "An exploratory space-mission concept. View the current public presentation and development archive.",
+    "homepage": "https://simple-minds-studios.github.io/project-voyager-iii/",
+    "pages": {
+      "html_url": "https://simple-minds-studios.github.io/project-voyager-iii/",
+      "cname": null,
+      "status": "built",
+      "https_enforced": true,
+      "build_type": "legacy"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simple-minds-studios.github.io/project-voyager-iii/assets/sms-favicon.svg",
+        "status": 200,
+        "bytes": 216,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simple-minds-studios.github.io/project-voyager-iii/assets/sms-social-preview.png",
+        "status": 200,
+        "bytes": 19961,
+        "type": "image/png"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "4f0580e01474a3e659eeaf4fd637f58a04187cf6",
+    "notes": "Retained research concept; completed title, README, image, favicon and provenance."
+  },
+  {
+    "repository": "project-wayfinder",
+    "description": "An investigation presented as The Hidden Social Network of Neolithic Britain.",
+    "homepage": "https://simple-minds-studios.github.io/project-wayfinder/",
+    "pages": {
+      "html_url": "https://simple-minds-studios.github.io/project-wayfinder/",
+      "cname": null,
+      "status": "built",
+      "https_enforced": true,
+      "build_type": "legacy"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simple-minds-studios.github.io/project-wayfinder/assets/sms-favicon.svg",
+        "status": 200,
+        "bytes": 216,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simple-minds-studios.github.io/project-wayfinder/assets/sms-social-preview.png",
+        "status": 200,
+        "bytes": 23372,
+        "type": "image/png"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "34558c2b0cbd6642cdeb8296d232e99ad5d3fc11",
+    "notes": "Retained research concept; completed description, README, image, favicon and provenance."
+  },
+  {
+    "repository": "project-aurelia",
+    "description": "A developing research project with a public presentation and source archive.",
+    "homepage": "https://simple-minds-studios.github.io/project-aurelia/",
+    "pages": {
+      "html_url": "https://simple-minds-studios.github.io/project-aurelia/",
+      "cname": null,
+      "status": "built",
+      "https_enforced": true,
+      "build_type": "legacy"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simple-minds-studios.github.io/project-aurelia/assets/sms-favicon.svg",
+        "status": 200,
+        "bytes": 216,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simple-minds-studios.github.io/project-aurelia/assets/sms-social-preview.png",
+        "status": 200,
+        "bytes": 20328,
+        "type": "image/png"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "1e01f096f6440b327bfbfd11ba3461f95066f49d",
+    "notes": "Retained research concept; completed description, README, image, favicon and provenance."
+  },
+  {
+    "repository": "best-human-moment",
+    "description": "An immersive translation chamber and assessment experience, archived as best-human-moment.",
+    "homepage": "https://simple-minds-studios.github.io/best-human-moment/",
+    "pages": {
+      "html_url": "https://simple-minds-studios.github.io/best-human-moment/",
+      "cname": null,
+      "status": "built",
+      "https_enforced": true,
+      "build_type": "legacy"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simple-minds-studios.github.io/best-human-moment/assets/sms-favicon.svg",
+        "status": 200,
+        "bytes": 216,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simple-minds-studios.github.io/best-human-moment/humanroom.jpg",
+        "status": 200,
+        "bytes": 381398,
+        "type": "image/jpeg"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "df8da7b0bf98afd6ec8d656394ffb5aa0226ebec",
+    "notes": "Preserved Human Room presentation and original artwork; repaired canonical metadata."
+  },
+  {
+    "repository": "glam-confession",
+    "description": "An experimental editorial portfolio exploring image, identity, performance, and atmosphere.",
+    "homepage": "https://simple-minds-studios.github.io/glam-confession/",
+    "pages": {
+      "html_url": "https://simple-minds-studios.github.io/glam-confession/",
+      "cname": null,
+      "status": "built",
+      "https_enforced": true,
+      "build_type": "legacy"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simple-minds-studios.github.io/glam-confession/assets/sms-favicon.svg",
+        "status": 200,
+        "bytes": 216,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simple-minds-studios.github.io/glam-confession/assets/sms-social-preview.png",
+        "status": 200,
+        "bytes": 21703,
+        "type": "image/png"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "4cf6473addf8c6221bf9a4d942b80543714d8eea",
+    "notes": "Preserved editorial portfolio; added page preview metadata and favicon."
+  },
+  {
+    "repository": "low-visibility-brand-bible",
+    "description": "The visual language, materials, palette, and creative philosophy of Low Visibility.",
+    "homepage": "https://simple-minds-studios.github.io/low-visibility-brand-bible/",
+    "pages": {
+      "html_url": "https://simple-minds-studios.github.io/low-visibility-brand-bible/",
+      "cname": null,
+      "status": "built",
+      "https_enforced": true,
+      "build_type": "legacy"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simple-minds-studios.github.io/low-visibility-brand-bible/assets/sms-favicon.svg",
+        "status": 200,
+        "bytes": 216,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simple-minds-studios.github.io/low-visibility-brand-bible/assets/sms-social-preview.png",
+        "status": 200,
+        "bytes": 25106,
+        "type": "image/png"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "ecb8d16be3e71d2a8c365f798d2d3552d1d9b1ca",
+    "notes": "Preserved brand archive; repaired organization links and preview assets."
+  },
+  {
+    "repository": "Low-Visibility-Lookbooks",
+    "description": "Fashion concepts, campaign imagery, silhouettes, and collection studies.",
+    "homepage": "https://simple-minds-studios.github.io/Low-Visibility-Lookbooks/",
+    "pages": {
+      "html_url": "https://simple-minds-studios.github.io/Low-Visibility-Lookbooks/",
+      "cname": null,
+      "status": "built",
+      "https_enforced": true,
+      "build_type": "legacy"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simple-minds-studios.github.io/Low-Visibility-Lookbooks/assets/sms-favicon.svg",
+        "status": 200,
+        "bytes": 216,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simple-minds-studios.github.io/Low-Visibility-Lookbooks/social-preview.PNG",
+        "status": 200,
+        "bytes": 478962,
+        "type": "image/png"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "1f448367c5de35ae624a2c9a0139a4f74cf48b31",
+    "notes": "Preserved lookbooks; corrected case-sensitive social-preview.PNG address."
+  },
+  {
+    "repository": "public-website.github.io",
+    "description": "An independent museum interaction prototype, preserved separately from the main studio website.",
+    "homepage": "https://simple-minds-studios.github.io/public-website.github.io/",
+    "pages": {
+      "html_url": "https://simple-minds-studios.github.io/public-website.github.io/",
+      "cname": null,
+      "status": "built",
+      "https_enforced": true,
+      "build_type": "legacy"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simple-minds-studios.github.io/public-website.github.io/images/favicon.svg",
+        "status": 200,
+        "bytes": 1535,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simple-minds-studios.github.io/public-website.github.io/images/social-preview.PNG",
+        "status": 200,
+        "bytes": 2344205,
+        "type": "image/png"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "899f0493e1070f5f559f8b16ded30c78180c9a9f",
+    "notes": "Preserved independent Atlas Museum trajectory; removed stale studio-domain CNAME."
+  },
+  {
+    "repository": "still-here",
+    "description": "A family-history exhibition with distinct evidence labels and a public/private publication boundary.",
+    "homepage": "https://simple-minds-studios.github.io/still-here/",
+    "pages": {
+      "html_url": "https://simple-minds-studios.github.io/still-here/",
+      "cname": null,
+      "status": "built",
+      "https_enforced": true,
+      "build_type": "legacy"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simple-minds-studios.github.io/still-here/assets/sms-favicon.svg",
+        "status": 200,
+        "bytes": 216,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simple-minds-studios.github.io/still-here/assets/sms-social-preview.png",
+        "status": 200,
+        "bytes": 22949,
+        "type": "image/png"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "5e8ed6860afb88ac098f6971b5f340c6c736c9a5",
+    "notes": "Preserved Bart Salazar stewardship, evidence labels and privacy boundaries; completed preview assets."
+  },
+  {
+    "repository": "the-anonymous-family",
+    "description": "A privacy-first family-history exhibit exploring migration, memory, evidence, and archival uncertainty.",
+    "homepage": "https://simple-minds-studios.github.io/the-anonymous-family/",
+    "pages": {
+      "html_url": "https://simple-minds-studios.github.io/the-anonymous-family/",
+      "cname": null,
+      "status": "built",
+      "https_enforced": true,
+      "build_type": "legacy"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simple-minds-studios.github.io/the-anonymous-family/assets/favicon.svg",
+        "status": 200,
+        "bytes": 506,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simple-minds-studios.github.io/the-anonymous-family/assets/social-preview.png",
+        "status": 200,
+        "bytes": 74115,
+        "type": "image/png"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "1aa9c95378405ae85eb6e362ff5d898998924254",
+    "notes": "Preserved Brad Devowe stewardship, privacy rules and project-specific artwork."
+  },
+  {
+    "repository": "mi-tech-bros",
+    "description": "Practical home and small-business technology help in Western Michigan.",
+    "homepage": "https://simple-minds-studios.github.io/mi-tech-bros/",
+    "pages": {
+      "html_url": "https://simple-minds-studios.github.io/mi-tech-bros/",
+      "cname": null,
+      "status": "built",
+      "https_enforced": true,
+      "build_type": "legacy"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simple-minds-studios.github.io/mi-tech-bros/assets/sms-favicon.svg",
+        "status": 200,
+        "bytes": 216,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simple-minds-studios.github.io/mi-tech-bros/assets/sms-social-preview.png",
+        "status": 200,
+        "bytes": 19765,
+        "type": "image/png"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "3bc827a38233ce9b75626508b2a497266c5d48c1",
+    "notes": "Completed concise description, website metadata, favicon and share image."
+  },
+  {
+    "repository": "the-moving-frame",
+    "description": "A human\u2013AI discoveries archive. Its public landing page is live; protocols and findings are in preparation.",
+    "homepage": "https://simple-minds-studios.github.io/the-moving-frame/",
+    "pages": {
+      "html_url": "https://simple-minds-studios.github.io/the-moving-frame/",
+      "cname": null,
+      "status": "built",
+      "https_enforced": true,
+      "build_type": "legacy"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simple-minds-studios.github.io/the-moving-frame/assets/sms-favicon.svg",
+        "status": 200,
+        "bytes": 216,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simple-minds-studios.github.io/the-moving-frame/assets/sms-social-preview.png",
+        "status": 200,
+        "bytes": 21286,
+        "type": "image/png"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "44973e0ba8eb1c970af32c9e42a01dbe0db27d0f",
+    "notes": "Preserved archive-in-preparation status; completed presentation metadata and assets."
+  },
+  {
+    "repository": "the-hart-protocol",
+    "description": "A civic editorial on infrastructure, public leverage, accountability, and local return.",
+    "homepage": "https://simple-minds-studios.github.io/the-hart-protocol/",
+    "pages": {
+      "html_url": "https://simple-minds-studios.github.io/the-hart-protocol/",
+      "cname": null,
+      "status": "built",
+      "https_enforced": true,
+      "build_type": "legacy"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simple-minds-studios.github.io/the-hart-protocol/assets/sms-favicon.svg",
+        "status": 200,
+        "bytes": 216,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simple-minds-studios.github.io/the-hart-protocol/assets/sms-social-preview.png",
+        "status": 200,
+        "bytes": 18857,
+        "type": "image/png"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "72a65895d47946a53a648340c178fef65eb562f2",
+    "notes": "Preserved civic editorial and source history; repaired organization links and metadata."
+  },
+  {
+    "repository": "agent-skills",
+    "description": "A separate repository currently presenting a Linc(d) personal-context prototype.",
+    "homepage": "https://simple-minds-studios.github.io/agent-skills/",
+    "pages": {
+      "html_url": "https://simple-minds-studios.github.io/agent-skills/",
+      "cname": null,
+      "status": null,
+      "https_enforced": true,
+      "build_type": "workflow"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simple-minds-studios.github.io/agent-skills/icons/icon.svg",
+        "status": 200,
+        "bytes": 478,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simple-minds-studios.github.io/agent-skills/assets/sms-social-preview.png",
+        "status": 200,
+        "bytes": 27837,
+        "type": "image/png"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "0c9961fa030abf558a064cf2de5b491d237d2397",
+    "notes": "Preserved separate Linc(d) prototype; build and published assets verified."
+  },
+  {
+    "repository": "lincd-public",
+    "description": "Linc(d): a personal-context prototype with reviewable proposals, session contracts and a cross-model HCBL handoff archive.",
+    "homepage": "https://simple-minds-studios.github.io/lincd-public/",
+    "pages": {
+      "html_url": "https://simple-minds-studios.github.io/lincd-public/",
+      "cname": null,
+      "status": null,
+      "https_enforced": true,
+      "build_type": "workflow"
+    },
+    "assets": {
+      "favicon": {
+        "url": "https://simple-minds-studios.github.io/lincd-public/icons/icon.svg",
+        "status": 200,
+        "bytes": 478,
+        "type": "image/svg+xml"
+      },
+      "social_image": {
+        "url": "https://simple-minds-studios.github.io/lincd-public/assets/sms-social-preview.png",
+        "status": 200,
+        "bytes": 16604,
+        "type": "image/png"
+      }
+    },
+    "checks": {
+      "description": true,
+      "favicon": true,
+      "social_image": true
+    },
+    "security": {
+      "secret_scanning": {
+        "status": "enabled"
+      },
+      "secret_scanning_push_protection": {
+        "status": "enabled"
+      },
+      "dependabot_security_updates": {
+        "status": "disabled"
+      },
+      "secret_scanning_non_provider_patterns": {
+        "status": "disabled"
+      },
+      "secret_scanning_validity_checks": {
+        "status": "disabled"
+      }
+    },
+    "private_vulnerability_reporting": {
+      "enabled": true
+    },
+    "vulnerability_alerts": {
+      "enabled": true
+    },
+    "history_protection": "enabled",
+    "workflow_defaults": "read-only; self-approval disabled",
+    "audit_commit": "7583fdd10343a4f43063bbdb7efccf2243a5e391",
+    "notes": "Merged six newer personal handoff commits, including cross-model review corrections; Vite deployment passed."
+  }
+]
