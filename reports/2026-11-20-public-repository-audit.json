@@ -229,7 +229,17 @@
     "history_protection": "enabled",
     "workflow_defaults": "read-only; self-approval disabled",
     "audit_commit": "b4ca35b7995b74895a13bfdac0d86d10bbdf05d2",
-    "notes": "Merged newer static gallery, retained original exhibit; removed unused third-party dependency declarations and legacy lockfile from active build."
+    "notes": "Merged newer static gallery, retained original exhibit; removed unused third-party dependency declarations and legacy lockfile from active build.",
+    "dependency_cleanup": {
+      "original_alerts": 111,
+      "github_final_states": {
+        "fixed": 111
+      },
+      "open_alerts": 0,
+      "manual_dismissals": 0,
+      "cleanup_commit": "b4ca35b7995b74895a13bfdac0d86d10bbdf05d2",
+      "deployment_run": "https://github.com/Simple-Minds-Studios/spineflow-tiny-showcase/actions/runs/44862684304"
+    }
   },
   {
     "repository": ".github",
